@@ -47,6 +47,7 @@ penetration-testing-labs/
 └── lab-02-windows7-eternalblue/
     ├── README.md
     └── Lab2-Report.pdf
+```
 ## ⚠️ Disclaimer
 
 All penetration testing activities documented in this repository were performed in controlled, isolated, and authorized lab environments for educational purposes only.
