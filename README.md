@@ -64,7 +64,7 @@ penetration-testing-labs/
 └── lab-04-webapplication-lazysysadmin/
     ├── README.md
     └── Lab4-Report.pdf
-
+```
 
 All penetration testing activities documented in this repository were performed in controlled, isolated, and authorized lab environments for educational purposes only.
 
